@@ -1,0 +1,19 @@
+.header-index{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    h1{
+        color: #D9BD87;
+        font-size: 3.4375rem;
+    }
+    h2{
+        color: #7E7152;
+        font-size:2.1875rem;
+        line-height: .625rem;
+    }
+
+}
